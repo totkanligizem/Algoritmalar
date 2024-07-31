@@ -1,0 +1,16 @@
+0532 712 45 59
+
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com"
+
+Command Prompt Komutlari
+
+dir => Directory kisaltilmişidir . 
+Linux ve mac için ls komutu kullanılır
+
+mkdir "directoryIsmi" => Yeni bir klasör acar
+cd (ChangeDirectory) "directoryIsmi"  => bir alt klasöre geçiş yapar
+cd.. => Bir ust klasöre geçiş yapar
+cls (Clear Screen) => Ekrani Temizler
+
+Ali veli laksdfasdfilskadf

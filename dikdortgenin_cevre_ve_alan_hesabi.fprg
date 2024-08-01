@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="user"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-01 10:16:10 &#214;S"/>
+        <attribute name="created" value="dXNlcjtVU0VSUy1NQUNCT09LLVA7MjAyNC0wOC0wMTswOToxMzozMyDDllM7Mjk0Nw=="/>
+        <attribute name="edited" value="dXNlcjtVU0VSUy1NQUNCT09LLVA7MjAyNC0wOC0wMTsxMDoxNjoxMCDDllM7MjszMDQ2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="KisaKenar, UzunKenar, Alan, Cevre" type="Real" array="False" size=""/>
+            <output expression="&quot;Kisa Kenari Giriniz&quot;" newline="True"/>
+            <input variable="KisaKenar"/>
+            <output expression="&quot;Uzun Kenari Giriniz&quot;" newline="True"/>
+            <input variable="UzunKenar"/>
+            <assign variable="Cevre" expression="(KisaKenar + UzunKenar)*2"/>
+            <assign variable="Alan" expression="KisaKenar*UzunKenar"/>
+            <output expression="&quot;Dikdortgen Alani:&quot; &amp;Alan" newline="True"/>
+            <output expression="&quot;Dikdortgen Cevresi:&quot; &amp;Cevre" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
